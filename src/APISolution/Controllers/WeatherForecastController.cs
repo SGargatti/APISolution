@@ -35,11 +35,11 @@ namespace APISolution.Controllers
             })
             .ToArray();
         }
-        
-        //    [HttpPost]
-        //public IEnumerable<WeatherForecast> Post()
-        //{
-        //   return "Weather is Freezing";
-        //}
+        [HttpGet]
+        public string Get(int i)
+        {
+            return "Freezing";
+        }
+
     }
 }
