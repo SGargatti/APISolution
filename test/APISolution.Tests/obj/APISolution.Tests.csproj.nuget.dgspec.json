@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sowmya.gargatti\\APISolution\\test\\APISolution.Tests\\APISolution.Tests.csproj": {}
+    "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\test\\APISolution.Tests\\APISolution.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sowmya.gargatti\\APISolution\\src\\APISolution\\APISolution.csproj": {
+    "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\src\\APISolution\\APISolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sowmya.gargatti\\APISolution\\src\\APISolution\\APISolution.csproj",
+        "projectUniqueName": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\src\\APISolution\\APISolution.csproj",
         "projectName": "APISolution",
-        "projectPath": "C:\\Users\\sowmya.gargatti\\APISolution\\src\\APISolution\\APISolution.csproj",
+        "projectPath": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\src\\APISolution\\APISolution.csproj",
         "packagesPath": "C:\\Users\\sowmya.gargatti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sowmya.gargatti\\APISolution\\src\\APISolution\\obj\\",
+        "outputPath": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\src\\APISolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\sowmya.gargatti\\APISolution\\test\\APISolution.Tests\\APISolution.Tests.csproj": {
+    "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\test\\APISolution.Tests\\APISolution.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sowmya.gargatti\\APISolution\\test\\APISolution.Tests\\APISolution.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\test\\APISolution.Tests\\APISolution.Tests.csproj",
         "projectName": "APISolution.Tests",
-        "projectPath": "C:\\Users\\sowmya.gargatti\\APISolution\\test\\APISolution.Tests\\APISolution.Tests.csproj",
+        "projectPath": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\test\\APISolution.Tests\\APISolution.Tests.csproj",
         "packagesPath": "C:\\Users\\sowmya.gargatti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sowmya.gargatti\\APISolution\\test\\APISolution.Tests\\obj\\",
+        "outputPath": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\test\\APISolution.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\sowmya.gargatti\\APISolution\\src\\APISolution\\APISolution.csproj": {
-                "projectPath": "C:\\Users\\sowmya.gargatti\\APISolution\\src\\APISolution\\APISolution.csproj"
+              "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\src\\APISolution\\APISolution.csproj": {
+                "projectPath": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\src\\APISolution\\APISolution.csproj"
               }
             }
           }
@@ -131,6 +131,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
