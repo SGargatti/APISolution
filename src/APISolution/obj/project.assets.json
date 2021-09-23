@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sowmya.gargatti\\APISolution\\src\\APISolution\\APISolution.csproj",
+      "projectUniqueName": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\src\\APISolution\\APISolution.csproj",
       "projectName": "APISolution",
-      "projectPath": "C:\\Users\\sowmya.gargatti\\APISolution\\src\\APISolution\\APISolution.csproj",
+      "projectPath": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\src\\APISolution\\APISolution.csproj",
       "packagesPath": "C:\\Users\\sowmya.gargatti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sowmya.gargatti\\APISolution\\src\\APISolution\\obj\\",
+      "outputPath": "C:\\Users\\sowmya.gargatti\\Desktop\\2020 Work\\Azure DevOps\\Projects\\APISolution\\src\\APISolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
