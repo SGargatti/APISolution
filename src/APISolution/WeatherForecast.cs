@@ -4,6 +4,7 @@ namespace APISolution
 {
     public class WeatherForecast
     {
+        //Adding Comment to check if this is fetched from VS
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }
