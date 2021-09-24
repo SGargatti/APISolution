@@ -37,7 +37,7 @@ namespace APISolution.Controllers
         }
         
             [HttpPost]
-        public IEnumerable<WeatherForecast> Post()
+        public string Post()
         {
            return "Weather is Freezing";
         }
